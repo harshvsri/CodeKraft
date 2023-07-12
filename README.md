@@ -2,8 +2,6 @@
 
 🚀 Empowering Developers with Inspiring Project Ideas and Step-by-Step Guidance! 🎉
 
-![CodeKraft Banner]()
-
 ## Overview
 CodeKraft is an open-source project assistance platform that aims to inspire and empower developers by providing a vast collection of project ideas and step-by-step guidance. Whether you're a beginner looking for hands-on coding experience or an experienced developer seeking new challenges, CodeKraft is here to fuel your creativity and help you bring your ideas to life. 💡👨‍💻🔥
 
