@@ -1,9 +1,9 @@
-import Display from "./components/Display";
+import Error from "./components/Error";
 
 function App() {
   return (
     <>
-      <Display />
+      <Error />
     </>
   );
 }
